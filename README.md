@@ -46,11 +46,14 @@ Also, p-value is higher than 5% for all three tests and lack of sufficient data 
 Questions:
 
 1. What metric or metrics are you going to test?
-Cost of vehicle, highway fuel efficiency and maintenance cost.
+We are going to test these metrics: Cost of vehicle, highway fuel efficiency and maintenance cost.
 
 2. What is the null hypothesis or alternative hypothesis?
+Null hypothesis: 
+There is No statistically significant relationship between dependent (MechaCar cost) and independent variables (highway fuel efficiency and maintenance down the road.)
 
-No statistically significant relationship between dependent (MechaCar cost) and independent variables (highway fuel efficiency and maintenance down the road.)
+Alternate hypothesis: 
+There is  statistically significant relationship between dependent (MechaCar cost) and independent variables (highway fuel efficiency and maintenance down the road.)
 
 3. What statistical test would you use to test the hypothesis? And why?
 Multiple linear regression statistical test as this allows us to have multiple independent variables
