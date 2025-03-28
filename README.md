@@ -283,8 +283,3 @@ Statistical testing showed:
 - Develop predictive models for component failure rates
 
 ---
-
-<p align="center">
-© 2025 MechaCar Analysis Project
-</p>
-
